@@ -1,0 +1,101 @@
+body{
+      background-color: #23272A;
+    }
+    pre{
+      font-family: verdana;
+      font-size: 100%;
+      position: absolute;
+      left: 390px;
+      top: 100px;
+      color: white;
+    }
+    .button{
+      background-color: #2C2F33;
+      border: none;
+      color: black;
+      padding: 200px 100px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 32px;
+      margin: 4px 20px;
+      cursor: pointer;
+      position: absolute;
+      left: 60px;
+      top: 100px;
+    }
+    .button5{
+      background-color: #0066FF;
+      border: none;
+      color: white;
+      padding: 40px 54px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 4px 2px;
+      cursor: pointer;
+      position: absolute;
+      left: 390px;
+      top: 230px;
+    }
+    .button10{
+      background-color: #3333CC;
+      border: none;
+      color: white;
+      padding: 40px 50px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 4px 2px;
+      cursor: pointer;
+      position: absolute;
+      left: 390px;
+      top: 335px;
+    }
+    .button15{
+      background-color: #330099;
+      border: none;
+      color: white;
+      padding: 40px 50px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 4px 2px;
+      cursor: pointer;
+      position: absolute;
+      left: 390px;
+      top: 440px;
+    }
+    .buttonSpec{
+      background-color: #DCDCDC;
+      border: none;
+      color: white;
+      padding: 145px 60px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 4px 2px;
+      cursor: pointer;
+      position: absolute;
+      left: 570px;
+      top: 230px;
+    }
+    .buttonAccount{
+      background-color: #7289DA;
+      border: none;
+      color: black;
+      padding: 10px 40px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 4px 2px;
+      cursor: pointer;
+      position: absolute;
+      left: 1080px;
+      top: 20px;
+    }
